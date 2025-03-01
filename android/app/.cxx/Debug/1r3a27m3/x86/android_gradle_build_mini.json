@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/bernat/develop/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/bernat/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/bernat/Documents/curso multiplataforma/multi/tema4/dart_persistencia/android/app/.cxx/Debug/1r3a27m3/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/bernat/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/bernat/Documents/curso multiplataforma/multi/tema4/dart_persistencia/android/app/.cxx/Debug/1r3a27m3/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

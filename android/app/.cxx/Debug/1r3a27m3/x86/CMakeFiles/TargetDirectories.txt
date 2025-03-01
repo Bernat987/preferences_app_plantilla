@@ -1,0 +1,2 @@
+/Users/bernat/Documents/curso multiplataforma/multi/tema4/dart_persistencia/android/app/.cxx/Debug/1r3a27m3/x86/CMakeFiles/edit_cache.dir
+/Users/bernat/Documents/curso multiplataforma/multi/tema4/dart_persistencia/android/app/.cxx/Debug/1r3a27m3/x86/CMakeFiles/rebuild_cache.dir

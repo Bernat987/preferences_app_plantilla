@@ -1,0 +1,1 @@
+/Users/bernat/Documents/curso multiplataforma/multi/tema4/dart_persistencia/build/app/intermediates/cxx/Debug/1r3a27m3/obj/x86
